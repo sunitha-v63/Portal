@@ -13,6 +13,7 @@ import Task10 from './Components/Task10'
 function App() {
   return (
     <>
+    <h6>Protal</h6>
       <Task1/>
       <Task2/>
       <Task3/>
